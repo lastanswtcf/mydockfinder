@@ -1,14 +1,27 @@
-# MyDockFinder - Romanian Language File (Romanian.ini)
+# MyDockFinder Custom Languages Project
 
-Custom Romanian translation for MyDockFinder
+This GitHub project provides UNOFFICIAL language files for MyDockFinder.
 
-### Installation Steps
-1. Download or copy the file `Romanian.ini`
-2. Place it in the `lang` folder of your MyDockFinder installation  
-   (usually: `Steam\steamapps\common\MyDockFinder\lang`)
+## What This Is:
+- Custom translations for languages NOT available in MyDockFinder
+- Alternative translations
 
-### If characters look garbled (mojibake / wrong diacritics)
-- Open the file in **Notepad++**
-- Go to: **Encoding > Character sets > Central European > Windows-1250**
-- Save the file
-- Restart MyDockFinder
+## How to Install:
+
+1. Download the language .ini file you need
+2. Go to: Steam\steamapps\common\MyDockFinder\lang
+3. Copy the file there
+4. Restart MyDockFinder
+5. Select the language from Settings
+
+## IMPORTANT - If You See Strange Symbols:
+
+If text shows wrong symbols:
+1. Open the file with [Notepad++](https://notepad-plus-plus.org/)
+2. Go to: Encoding → Choose the right converter
+3. Save and test in MyDockFinder
+
+Try different encoding options until text displays correctly.
+
+## Note:
+These are community translations. Some parts might not be 100% complete.
